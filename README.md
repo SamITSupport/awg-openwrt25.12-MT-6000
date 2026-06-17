@@ -1,4 +1,5 @@
 ![Downloads](https://img.shields.io/github/downloads/Slava-Shchipunov/awg-openwrt/total.svg)
+[![Create Release on Tag](https://github.com/SamITSupport/awg-openwrt25.12-MT-6000/actions/workflows/build-module.yml/badge.svg)](https://github.com/SamITSupport/awg-openwrt25.12-MT-6000/actions/workflows/build-module.yml)
 
 # Пакеты amneziawg для роутеров с прошивкой OpenWRT
 
